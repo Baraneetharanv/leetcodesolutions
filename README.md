@@ -5,11 +5,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0066-plus-one) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |

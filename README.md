@@ -35,6 +35,7 @@
 | [0066-plus-one](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0258-add-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2083-three-divisors](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2083-three-divisors) |
 ## Dynamic Programming
 |  |
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->

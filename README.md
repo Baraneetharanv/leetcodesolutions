@@ -34,6 +34,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2083-three-divisors) |
 ## Dynamic Programming
 |  |
@@ -50,5 +51,10 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2083-three-divisors) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

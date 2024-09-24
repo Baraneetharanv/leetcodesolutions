@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0001-two-sum) |
+| [1873-longest-nice-substring](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
 |  |
@@ -32,6 +33,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0058-length-of-last-word) |
 | [1205-defanging-an-ip-address](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1205-defanging-an-ip-address) |
+| [1873-longest-nice-substring](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## String Matching
 |  |
@@ -70,12 +72,18 @@
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1873-longest-nice-substring](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1873-longest-nice-substring) |
 ## Sliding Window
 |  |
 | ------- |
+| [1873-longest-nice-substring](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Counting
 |  |
 | ------- |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1873-longest-nice-substring](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1873-longest-nice-substring) |
 <!---LeetCode Topics End-->

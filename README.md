@@ -86,4 +86,20 @@
 |  |
 | ------- |
 | [1873-longest-nice-substring](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1873-longest-nice-substring) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->

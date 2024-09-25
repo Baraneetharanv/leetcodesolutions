@@ -42,6 +42,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0258-add-digits) |
@@ -102,4 +103,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0100-same-tree) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

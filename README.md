@@ -51,6 +51,7 @@
 | [0070-climbing-stairs](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0258-add-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1610-xor-operation-in-an-array](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1610-xor-operation-in-an-array) |
 | [2083-three-divisors](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2083-three-divisors) |
 ## Dynamic Programming
 |  |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1610-xor-operation-in-an-array](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1610-xor-operation-in-an-array) |
 | [1873-longest-nice-substring](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1873-longest-nice-substring) |
 | [2427-first-letter-to-appear-twice](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Sliding Window

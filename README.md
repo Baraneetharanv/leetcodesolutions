@@ -53,6 +53,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1610-xor-operation-in-an-array) |
+| [1806-count-of-matches-in-tournament](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2083-three-divisors](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2083-three-divisors) |
 ## Dynamic Programming
 |  |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0258-add-digits) |
+| [1806-count-of-matches-in-tournament](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1806-count-of-matches-in-tournament) |
 ## Bit Manipulation
 |  |
 | ------- |

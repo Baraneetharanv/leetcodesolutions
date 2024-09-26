@@ -11,6 +11,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 ## Binary Search
 |  |
 | ------- |

@@ -10,6 +10,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1944-truncate-sentence](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1944-truncate-sentence) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 ## Binary Search
@@ -37,6 +38,7 @@
 | [0058-length-of-last-word](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0058-length-of-last-word) |
 | [1205-defanging-an-ip-address](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1205-defanging-an-ip-address) |
 | [1873-longest-nice-substring](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1873-longest-nice-substring) |
+| [1944-truncate-sentence](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1944-truncate-sentence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2427-first-letter-to-appear-twice](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2427-first-letter-to-appear-twice) |
 ## String Matching

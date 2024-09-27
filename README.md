@@ -12,6 +12,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1944-truncate-sentence](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1944-truncate-sentence) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/3397-find-the-integer-added-to-array-i) |
 ## Binary Search
@@ -81,6 +82,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0258-add-digits) |
 | [1806-count-of-matches-in-tournament](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1806-count-of-matches-in-tournament) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/3220-count-tested-devices-after-test-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | ------- |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2427-first-letter-to-appear-twice](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2427-first-letter-to-appear-twice) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/3220-count-tested-devices-after-test-operations) |
 ## Divide and Conquer
 |  |
 | ------- |

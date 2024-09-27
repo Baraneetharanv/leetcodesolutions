@@ -13,6 +13,7 @@
 | [1944-truncate-sentence](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1944-truncate-sentence) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/3397-find-the-integer-added-to-array-i) |
 ## Binary Search
 |  |
 | ------- |

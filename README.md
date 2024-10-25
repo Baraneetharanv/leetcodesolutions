@@ -112,21 +112,25 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
 ## Recursion
 |  |

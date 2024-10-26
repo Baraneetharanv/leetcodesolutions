@@ -113,12 +113,14 @@
 | ------- |
 | [0100-same-tree](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
@@ -131,6 +133,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
 ## Recursion
 |  |
@@ -140,4 +143,8 @@
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1341-split-a-string-in-balanced-strings) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->

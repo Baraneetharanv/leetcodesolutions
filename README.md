@@ -114,6 +114,7 @@
 | [0100-same-tree](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
@@ -121,6 +122,7 @@
 | [0100-same-tree](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
@@ -134,6 +136,7 @@
 | [0100-same-tree](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
 ## Recursion
 |  |
@@ -147,4 +150,5 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->

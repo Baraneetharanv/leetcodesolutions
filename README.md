@@ -11,6 +11,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1944-truncate-sentence](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1944-truncate-sentence) |
+| [2722-prime-in-diagonal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2722-prime-in-diagonal) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -62,6 +63,7 @@
 | [2083-three-divisors](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2083-three-divisors) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2238-a-number-after-a-double-reversal) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2722-prime-in-diagonal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2722-prime-in-diagonal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2083-three-divisors) |
+| [2722-prime-in-diagonal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2722-prime-in-diagonal) |
 ## Simulation
 |  |
 | ------- |
@@ -151,4 +154,8 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [2722-prime-in-diagonal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2722-prime-in-diagonal) |
 <!---LeetCode Topics End-->

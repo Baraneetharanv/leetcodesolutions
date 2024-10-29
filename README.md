@@ -39,6 +39,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0058-length-of-last-word) |
+| [0742-to-lower-case](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1873-longest-nice-substring](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1873-longest-nice-substring) |

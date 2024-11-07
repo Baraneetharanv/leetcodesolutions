@@ -12,6 +12,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1944-truncate-sentence](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1944-truncate-sentence) |
 | [2722-prime-in-diagonal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2722-prime-in-diagonal) |
+| [2727-number-of-senior-citizens](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2727-number-of-senior-citizens) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/3220-count-tested-devices-after-test-operations) |
@@ -47,6 +48,7 @@
 | [1944-truncate-sentence](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1944-truncate-sentence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2427-first-letter-to-appear-twice](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2427-first-letter-to-appear-twice) |
+| [2727-number-of-senior-citizens](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2727-number-of-senior-citizens) |
 ## String Matching
 |  |
 | ------- |

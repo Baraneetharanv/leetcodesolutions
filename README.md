@@ -150,6 +150,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0206-reverse-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -163,4 +164,8 @@
 |  |
 | ------- |
 | [2722-prime-in-diagonal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2722-prime-in-diagonal) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

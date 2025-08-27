@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1944-truncate-sentence](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1944-truncate-sentence) |
 | [2722-prime-in-diagonal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2722-prime-in-diagonal) |
@@ -24,11 +25,13 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [1873-longest-nice-substring](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2427-first-letter-to-appear-twice](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2427-first-letter-to-appear-twice) |
@@ -36,6 +39,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -176,4 +180,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0206-reverse-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->

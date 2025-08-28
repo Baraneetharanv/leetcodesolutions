@@ -11,6 +11,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0455-assign-cookies) |
+| [0495-teemo-attacking](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0495-teemo-attacking) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1944-truncate-sentence](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1944-truncate-sentence) |
 | [2722-prime-in-diagonal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2722-prime-in-diagonal) |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0258-add-digits) |
+| [0495-teemo-attacking](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0495-teemo-attacking) |
 | [1806-count-of-matches-in-tournament](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1806-count-of-matches-in-tournament) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/3220-count-tested-devices-after-test-operations) |
 ## Bit Manipulation

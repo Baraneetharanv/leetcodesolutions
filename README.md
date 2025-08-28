@@ -12,6 +12,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0495-teemo-attacking) |
+| [0506-relative-ranks](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0506-relative-ranks) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1944-truncate-sentence](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1944-truncate-sentence) |
 | [2722-prime-in-diagonal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2722-prime-in-diagonal) |
@@ -190,4 +191,9 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0506-relative-ranks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->

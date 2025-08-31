@@ -14,6 +14,7 @@
 | [0495-teemo-attacking](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0566-reshape-the-matrix) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1944-truncate-sentence](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1944-truncate-sentence) |
 | [2722-prime-in-diagonal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2722-prime-in-diagonal) |
@@ -101,6 +102,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0495-teemo-attacking) |
+| [0566-reshape-the-matrix](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0566-reshape-the-matrix) |
 | [1806-count-of-matches-in-tournament](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1806-count-of-matches-in-tournament) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/3220-count-tested-devices-after-test-operations) |
 ## Bit Manipulation
@@ -183,6 +185,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0566-reshape-the-matrix) |
 | [2722-prime-in-diagonal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2722-prime-in-diagonal) |
 ## Linked List
 |  |

@@ -15,6 +15,7 @@
 | [0506-relative-ranks](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0575-distribute-candies) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1944-truncate-sentence](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1944-truncate-sentence) |
 | [2722-prime-in-diagonal](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2722-prime-in-diagonal) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0575-distribute-candies](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/0575-distribute-candies) |
 | [1873-longest-nice-substring](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2427-first-letter-to-appear-twice](https://github.com/Baraneetharanv/leetcodesolutions/tree/master/2427-first-letter-to-appear-twice) |
